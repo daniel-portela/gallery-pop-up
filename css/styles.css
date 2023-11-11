@@ -9,8 +9,8 @@ body {
   font-size: 18px;
   font-weight: 400;
   overflow-x: hidden;
-  background-color: #eeeeee;
-  color: #6C6D6E;
+  background-color: #fffbfb;
+  color: #000000;
 }
 
 a {
@@ -63,7 +63,7 @@ p {
 .tm-nav > ul > li > a {
   display: block;
   padding: 12px 15px;
-  color: #999A9B;
+  color: #000000;
 }
 
 .tm-nav > ul > li.active > a,
@@ -76,7 +76,7 @@ p {
   display: inline-block;
   width: 20px;
   height: 8px;
-  background-color: #999A9B;
+  background-color: #ffffff;
   vertical-align: middle;
   margin-right: 20px;
 }
@@ -87,7 +87,8 @@ p {
   background-color: #0299CC;
 }
 
-.tm-content {  
+.tm-content { 
+	background-color: #e5f1ff; 
   padding: 55px;
 }
 
@@ -97,13 +98,13 @@ p {
 
 .tm-title {
   font-size: 2rem;
-  color: #626364;
+  color: #000000;
 }
 
 .tm-page-title {
   font-size: 1.5rem;
   margin-bottom: 40px;
-  color: #656667;
+  color: #000000;
 }
 
 .tm-img {
@@ -116,7 +117,7 @@ footer {
   display: flex;
   justify-content: space-between;
   padding-bottom: 50px;
-  color: #9A9B9C;
+  color: #000000;
 }
 
 .tm-footer-link {
@@ -189,7 +190,7 @@ footer {
 	margin: 0 auto;
 }
 
-figure.effect-bubba {	background: #9e5406; }
+figure.effect-bubba {	background: #36069e; }
 
 figure.effect-bubba img {
 	opacity: 1;
@@ -304,7 +305,7 @@ figcaption {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgb(0, 26, 53);
 }
 
 .tm-img-overlay-text {
